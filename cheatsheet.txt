@@ -1,0 +1,7 @@
+how to push in gitbash
+
+
+1.)  git add .
+2.) git commit -m "<commitname>"
+3.) git push
+
